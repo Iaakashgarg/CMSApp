@@ -10,15 +10,9 @@ cats:
     name: Grumpy cat (Tardar Sauce)
   - name: New Cat
     description: I am new cat here
-  - name: Wild Cat
-    description: I joined on 04th July
 ---
 Welcome to my awesome page about cats of the internet. 
 
 This page is built with NextJS, and content is managed in Decap CMS
-
-![](img/image.jpg)
-
-![]()
 
 ![]()
